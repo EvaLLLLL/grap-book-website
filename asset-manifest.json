@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/grap-book-website/static/css/main.b37e00db.chunk.css",
+    "main.js": "/grap-book-website/static/js/main.3d9cc793.chunk.js",
+    "main.js.map": "/grap-book-website/static/js/main.3d9cc793.chunk.js.map",
+    "runtime-main.js": "/grap-book-website/static/js/runtime-main.0c8d05bc.js",
+    "runtime-main.js.map": "/grap-book-website/static/js/runtime-main.0c8d05bc.js.map",
+    "static/js/2.0e1acf73.chunk.js": "/grap-book-website/static/js/2.0e1acf73.chunk.js",
+    "static/js/2.0e1acf73.chunk.js.map": "/grap-book-website/static/js/2.0e1acf73.chunk.js.map",
+    "index.html": "/grap-book-website/index.html",
+    "static/css/main.b37e00db.chunk.css.map": "/grap-book-website/static/css/main.b37e00db.chunk.css.map",
+    "static/js/2.0e1acf73.chunk.js.LICENSE.txt": "/grap-book-website/static/js/2.0e1acf73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c8d05bc.js",
+    "static/js/2.0e1acf73.chunk.js",
+    "static/css/main.b37e00db.chunk.css",
+    "static/js/main.3d9cc793.chunk.js"
+  ]
+}
